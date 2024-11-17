@@ -3,8 +3,8 @@
 - **In-place modification**: Modifies the array without using additional space, achieving a space complexity of O(1).
 - **Sorted array property**: Leverages the sorted order of elements to identify and remove duplicates easily.
 
-# Remove Duplicates from Sorted Array
-## Problem Summary
+## Remove Duplicates from Sorted Array
+### Problem Summary
 Given an integer array `nums` sorted in non-decreasing order, remove duplicates in-place so that each unique element appears only once. The function should return the number of unique elements (`k`). The first `k` elements of `nums` should contain these unique elements in their original order, while the remaining elements do not matter.
 
 ### Example
