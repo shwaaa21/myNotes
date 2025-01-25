@@ -4,8 +4,6 @@
 - **Higher-Order Functions**: Creating functions that operate on or return other functions.
 
 ## Function Factories in JavaScript
-### Greeting Function Factory
-
 ### Code
 ```javascript
 function createGreeting(message) {
